@@ -1,5 +1,5 @@
 {
-  "name": "@kaka/sdk",
+  "name": "kaka-demo",
   "version": "1.4.0",
   "description": "",
   "main": "lib/index.js",
